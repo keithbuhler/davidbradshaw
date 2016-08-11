@@ -10,8 +10,8 @@ permalink: pretty
 title:            David Bradshaw
 tagline:          "Philosopher"
 description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle - East and West</i>."
-url:            "https://keithbuhler.com"
-baseurl:          "/davidbradshaw"
+url:            "https://keithbuhler.com/davidbradshaw"
+baseurl:        "https://keithbuhler.com/davidbradshaw"
 
 author:
   name:           Keith Buhler
