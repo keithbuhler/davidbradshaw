@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Papers
+title: Theology & Religion
 ---
 
 
-["The Concept of the Divine Energies."](http://www.uky.edu/~dbradsh/papers/Concept%20of%20the%20Divine%20Energies.doc)  A talk that summarizes some of the main ideas of my book, _Aristotle East and West:  Metaphysics and the Division of Christendom.  _Presented to Philosophy departments at  Purdue University and the University of Pennsylvania, Fall 2006.
+["The Concept of the Divine Energies."](http://www.uky.edu/~dbradsh/papers/Concept%20of%20the%20Divine%20Energies.doc)  A talk that summarizes some of the main ideas of my book, _Aristotle East and West:  Metaphysics and the Division of Christendom._ Presented to Philosophy departments at  Purdue University and the University of Pennsylvania, Fall 2006.
 
 ["A Christian Approach to the Philosophy of Time."](http://www.uky.edu/~dbradsh/papers/Christian%20Approach%20to%20Phil%20of%20Time.pdf)  Describes the thought of the Greek Fathers on time & eternity, with a brief suggestion for how it can be applied to the problem of human freedom & divine foreknowledge.  Presented at a conference on Christian approaches to metaphysics, June 2006.
 
