@@ -10,12 +10,6 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -27,8 +21,6 @@
       {% endfor %}
     </nav>
 
-      <span class="sidebar-nav-item">Hyde theme powered by <a href="http://www.keithbuhler.com">Buhler.</a></span>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. David Bradshaw. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} David Bradshaw. <a href="/README"> All rights reserved.</a></p>
   </div>
 </div>
