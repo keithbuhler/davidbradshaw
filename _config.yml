@@ -9,7 +9,7 @@ permalink: pretty
 # Setup
 title:            "David Bradshaw"
 tagline:          "Philosopher"
-description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle - East and West</i>."
+description:      "Professor of Philosophy at the University of Kentucky and author of <a href="https://www.amazon.com/Aristotle-East-West-Metaphysics-Christendom/dp/0521035562"><i>Aristotle - East and West</i>.</a>"
 
 url:            https://keithbuhler.com
 baseurl:        /davidbradshaw/
