@@ -1,12 +1,10 @@
-markdown:    kramdown
-
 # Build settings
+markdown:    kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 encoding: utf-8
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
 
 # Setup
 title:            David Bradshaw
@@ -18,7 +16,6 @@ baseurl:          /davidbradshaw
 author:
   name:           Keith Buhler
   url:            https://keithbuhler.com
-  baseurl:        /davidbradshaw
 
 # Gems
 
