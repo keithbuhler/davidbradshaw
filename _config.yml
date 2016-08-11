@@ -1,14 +1,19 @@
 # Dependencies
-highlighter:      pygments
+markdown: kramdown
+highlighter: pygments
+
+# Build settings
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+encoding: utf-8
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
-title:            David Bradshaw
-tagline:          'Philosopher'
-description:      'David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle: East and West</i>.
+title:            "David Bradshaw"
+tagline:          "Philosopher"
+description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle: East and West</i>."
 url:              http://keithbuhler.com
 baseurl:          /davidbradshaw
 
@@ -16,8 +21,16 @@ author:
   name:           'Keith Buhler'
   url:            https://keithbuhler.com
 
-paginate:         5
+# Gems
 
+gems: [jekyll-paginate]
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+
+
+paginate:         5
+ 
 # Custom vars
 version:          
 
