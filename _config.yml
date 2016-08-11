@@ -1,6 +1,6 @@
 # Dependencies
-markdown: kramdown
-highlighter: pygments
+markdown:kramdown
+highlighter:pygments
 
 # Build settings
 markdown_ext: markdown,mkdown,mkdn,mkd,md
@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:            "David Bradshaw"
 tagline:          "Philosopher"
-description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle: East and West</i>."
+description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle - East and West</i>."
 url:              http://keithbuhler.com
 baseurl:          /davidbradshaw
 
@@ -29,10 +29,10 @@ gems: [jekyll-paginate]
   - jekyll-gist
 
 
-paginate:         5
+paginate: 5
  
 # Custom vars
-version:          
+
 
 github:
   repo:           https://github.com/keithbuhler/davidbradshaw
