@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theology & Religion
+title: Philosophy of religion
 ---
 
 
