@@ -1,6 +1,4 @@
-# Dependencies
-markdown:kramdown
-highlighter:pygments
+markdown:    kramdown
 
 # Build settings
 markdown_ext: markdown,mkdown,mkdn,mkd,md
@@ -8,26 +6,21 @@ encoding: utf-8
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
 
 # Setup
-title:            "David Bradshaw"
+title:            David Bradshaw
 tagline:          "Philosopher"
 description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle - East and West</i>."
 url:              http://keithbuhler.com
 baseurl:          /davidbradshaw
 
 author:
-  name:           'Keith Buhler'
+  name:           Keith Buhler
   url:            https://keithbuhler.com
 
 # Gems
 
 gems: [jekyll-paginate]
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-
 
 paginate: 5
  
