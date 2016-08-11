@@ -7,11 +7,11 @@ encoding: utf-8
 permalink: pretty
 
 # Setup
-title:            David Bradshaw
+title:            "David Bradshaw"
 tagline:          "Philosopher"
 description:      "David Bradshaw is professor of Philosophy at the University of Kentucky and the author of <i>Aristotle - East and West</i>."
-url:            https://keithbuhler.com
-baseurl:        /davidbradshaw
+url:            "https://keithbuhler.com"
+baseurl:        "/davidbradshaw"
 
 author:
   name:          
