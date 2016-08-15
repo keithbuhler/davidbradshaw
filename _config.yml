@@ -11,8 +11,8 @@ title:            "David Bradshaw"
 tagline:          "Philosopher"
 description:      "Professor of Philosophy at the University of Kentucky and author of <i>Aristotle - East and West</i>.</a>"
 
-url:            http://www.keithbuhler.com
-baseurl:        /sample3
+url:            "http://www.keithbuhler.com"
+baseurl:        "/sample3/"
 
 author:
   name:          
